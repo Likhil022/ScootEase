@@ -1,4 +1,4 @@
-package com.ScootEase.ScootEase.DTO;
+package com.ScootEase.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

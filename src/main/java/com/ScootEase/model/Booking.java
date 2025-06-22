@@ -1,4 +1,4 @@
-package com.ScootEase.ScootEase.model;
+package com.ScootEase.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,6 +1,6 @@
-package com.ScootEase.ScootEase.repository;
+package com.ScootEase.repository;
 
-import com.ScootEase.ScootEase.model.Booking;
+import com.ScootEase.model.Booking;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

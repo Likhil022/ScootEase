@@ -1,4 +1,4 @@
-package com.ScootEase.ScootEase;
+package com.ScootEase;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

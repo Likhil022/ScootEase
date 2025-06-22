@@ -1,6 +1,6 @@
-package com.ScootEase.ScootEase.repository;
+package com.ScootEase.repository;
 
-import com.ScootEase.ScootEase.model.User;
+import com.ScootEase.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
